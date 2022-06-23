@@ -11,6 +11,10 @@
     "\"gourmet\"",
     "\"food\""
   ],
-  "author": "\"Luis Da Silva\"",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldasilvar/Project-Three.git"
+  },
+  "author": "Luis Da Silva",
   "license": "ISC"
 }
