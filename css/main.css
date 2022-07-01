@@ -498,6 +498,7 @@ ul li a {
 .fill {
   color: black;
   cursor: pointer;
+  padding-right: 16px;
 }
 .fill:hover {
   -webkit-animation: fill 0.3s ease-in-out;

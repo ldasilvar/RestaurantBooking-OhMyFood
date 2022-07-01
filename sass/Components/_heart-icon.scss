@@ -1,6 +1,7 @@
 .fill {
     color: black;
     cursor: pointer;
+    padding-right: 16px;
     &:hover {
       animation: fill 0.3s ease-in-out;
       display: inline-block;
