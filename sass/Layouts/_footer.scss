@@ -1,35 +1,38 @@
 footer {
-    background-color: #353535;
-    display: block;
-    padding: 25px;
-    margin: 0;
-    border: 0;
-    color: white;
-    text-align: center;
+  background-color: #353535;
+  display: block;
+  padding: 25px;
+  margin: 0;
+  border: 0;
+  color: white;
+  text-align: left;
+}
+  h3 {
+    font-family: "Shrikhand", "sans-serif";
+    padding: 5px 0 20px 36px;
+    font-size: 1.2rem;
+    font-weight: 500;
   }
-    h3 {
-      font-family: "Shrikhand", "sans-serif";
-      padding: 5px 0 20px 0;
-      font-size: 1.2rem;
-      font-weight: 500;
-      margin-left: 40px;
-    }
-    ul {
-      list-style-type: none;
-  
-      li {
-        padding: 5px 0 5px 0;
-  
-        a {
-          color: white;
-        }
+  ul {
+    list-style-type: none;
+
+    li {
+      padding: 5px 0 5px 0;
+
+      a {
+        color: white;
       }
     }
-  
-      .fa-utensils {
-        margin-right: 12px;
-      }
-      .fa-hands-helping {
-        margin-right: 5px;
-      }
-  
+  }
+
+    .fa-utensils {
+      margin-right: 12px;
+    }
+    .fa-hands-helping {
+      margin-right: 5px;
+    }
+
+
+
+
+    
