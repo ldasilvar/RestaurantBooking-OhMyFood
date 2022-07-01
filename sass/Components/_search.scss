@@ -6,6 +6,13 @@
     box-shadow: inset 0px 5px 5px 0px #dddddd;
     
   }
+  .search i{
+ padding-right: 5px;   
+  }
+
   .search__bar input{
     @include search;
+  }
+  input:focus::placeholder {
+    color: transparent;
   }

@@ -434,6 +434,10 @@ ul li a {
           box-shadow: inset 0px 5px 5px 0px #dddddd;
 }
 
+.search i {
+  padding-right: 5px;
+}
+
 .search__bar input {
   border: none;
   background: #eaeaea;
@@ -442,6 +446,26 @@ ul li a {
   margin-top: 5px;
   text-align: center;
   width: 150px;
+}
+
+input:focus::-webkit-input-placeholder {
+  color: transparent;
+}
+
+input:focus::-moz-placeholder {
+  color: transparent;
+}
+
+input:focus:-ms-input-placeholder {
+  color: transparent;
+}
+
+input:focus::-ms-input-placeholder {
+  color: transparent;
+}
+
+input:focus::placeholder {
+  color: transparent;
 }
 
 .howto__button {
