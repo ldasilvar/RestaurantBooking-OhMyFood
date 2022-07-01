@@ -52,8 +52,10 @@ padding: 10px;
   padding: 5px 0px 10px 20px;
   font-weight: lighter;
 }
+@media screen and (max-width: 992px){
 .dish h5, .dessert h5{
   padding-top: 35px;
+}
 }
 .btn__order button {
   @include about-button;

@@ -262,7 +262,7 @@ h6 {
 .line {
   width: 40px;
   border: 2px solid #99E2D0;
-  margin-left: 10px;
+  margin-left: 20px;
 }
 
 @media screen and (min-width: 768px) {
@@ -628,10 +628,11 @@ ul li a {
   font-weight: lighter;
 }
 
-.dish h5, .dessert h5 {
-  padding-top: 35px;
+@media screen and (max-width: 992px) {
+  .dish h5, .dessert h5 {
+    padding-top: 35px;
+  }
 }
-
 .btn__order button {
   background-image: -webkit-gradient(linear, right top, left top, from(#9356dc), color-stop(#b35cdc), color-stop(#cf64dc), color-stop(#e86edb), to(#ff79da));
   background-image: linear-gradient(to left, #9356dc, #b35cdc, #cf64dc, #e86edb, #ff79da);
