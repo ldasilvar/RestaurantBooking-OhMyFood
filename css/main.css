@@ -517,6 +517,10 @@ ul li a {
   }
 }
 
+.menu__title h2 {
+  padding: 10px;
+}
+
 .meals {
   background-color: #fff;
   border-radius: 15px;
@@ -578,10 +582,17 @@ ul li a {
   margin: 0;
 }
 
-.starter h3, .dish h3, .dessert h3 {
+.starter h5, .dish h5, .dessert h5 {
   padding-left: 10px;
   text-transform: uppercase;
   margin-bottom: 5px;
+  margin: 0;
+  padding: 5px 0px 10px 20px;
+  font-weight: lighter;
+}
+
+.dish h5, .dessert h5 {
+  padding-top: 35px;
 }
 
 .btn__order button {
