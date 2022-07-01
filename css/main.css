@@ -413,10 +413,10 @@ ul li a {
   cursor: pointer;
 }
 .about__button button:hover {
-  background-color: #ae80e5;
+  background-color: #b389e7;
   background-blend-mode: lighten;
-  -webkit-box-shadow: 4px 4px 6px #000;
-          box-shadow: 4px 4px 6px #000;
+  -webkit-box-shadow: 1px 1px 6px #000;
+          box-shadow: 1px 1px 6px #000;
 }
 
 .search {
@@ -654,10 +654,10 @@ ul li a {
   }
 }
 .btn__order button:hover {
-  background-color: #ae80e5;
+  background-color: #b389e7;
   background-blend-mode: lighten;
-  -webkit-box-shadow: 4px 4px 6px #000;
-          box-shadow: 4px 4px 6px #000;
+  -webkit-box-shadow: 1px 1px 6px #000;
+          box-shadow: 1px 1px 6px #000;
 }
 
 .btn__order {
