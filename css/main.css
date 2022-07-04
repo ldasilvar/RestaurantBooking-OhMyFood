@@ -722,16 +722,16 @@ input:focus::placeholder {
             transform: scale(0.35) rotate(0deg);
   }
   25% {
-    -webkit-transform: scale(0.4) rotate(100deg);
-            transform: scale(0.4) rotate(100deg);
+    -webkit-transform: scale(0.4) rotate(90deg);
+            transform: scale(0.4) rotate(90deg);
   }
   50% {
-    -webkit-transform: scale(0.5) rotate(200deg);
-            transform: scale(0.5) rotate(200deg);
+    -webkit-transform: scale(0.5) rotate(180deg);
+            transform: scale(0.5) rotate(180deg);
   }
   75% {
-    -webkit-transform: scale(0.4) rotate(280deg);
-            transform: scale(0.4) rotate(280deg);
+    -webkit-transform: scale(0.4) rotate(270deg);
+            transform: scale(0.4) rotate(270deg);
   }
   100% {
     -webkit-transform: scale(0.35) rotate(360deg);
@@ -744,16 +744,16 @@ input:focus::placeholder {
             transform: scale(0.35) rotate(0deg);
   }
   25% {
-    -webkit-transform: scale(0.4) rotate(100deg);
-            transform: scale(0.4) rotate(100deg);
+    -webkit-transform: scale(0.4) rotate(90deg);
+            transform: scale(0.4) rotate(90deg);
   }
   50% {
-    -webkit-transform: scale(0.5) rotate(200deg);
-            transform: scale(0.5) rotate(200deg);
+    -webkit-transform: scale(0.5) rotate(180deg);
+            transform: scale(0.5) rotate(180deg);
   }
   75% {
-    -webkit-transform: scale(0.4) rotate(280deg);
-            transform: scale(0.4) rotate(280deg);
+    -webkit-transform: scale(0.4) rotate(270deg);
+            transform: scale(0.4) rotate(270deg);
   }
   100% {
     -webkit-transform: scale(0.35) rotate(360deg);
