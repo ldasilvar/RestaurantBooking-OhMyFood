@@ -14,7 +14,10 @@ The website is fully optimized for mobile and tablet views with a dynamic displa
 Mobile View
 
 ![d1bnZVY](https://user-images.githubusercontent.com/102690372/213280113-fee0953c-fdfb-481b-8352-25694ac004d1.png)
+
+
 ![YvKLw0i](https://user-images.githubusercontent.com/102690372/213280361-8289c6b1-9531-42b0-b59a-c33bade33abe.png)
 
 Hover Effects
+
 ![RGJeDh7](https://user-images.githubusercontent.com/102690372/213281576-470cedcd-589a-4786-9513-6324a6148b9d.gif)
